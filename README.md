@@ -22,7 +22,7 @@ Welcome to **koShop**, a modern and minimalist e-commerce UI template built with
 Showcase your app with screenshots here:
 
 - **Home Screen**
-  ![gambar_nice](mocups.jpg)
+  ![gambar_nice](mocups.png)
 
 
 
