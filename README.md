@@ -1,16 +1,28 @@
-# ui_ecommerce
+# koShop - Flutter E-Commerce UI
 
-A new Flutter project.
+Welcome to **koShop**, a modern and minimalist e-commerce UI template built with Flutter. koShop is designed to provide a seamless and visually appealing shopping experience, complete with a responsive and customizable interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Beautiful and Minimalist Design**: A clean, user-friendly interface for enhanced user experience.
+- **Responsive Layout**: Optimized for mobile devices of various screen sizes.
+- **Customizable Widgets**: Modular components that can be tailored to your needs.
+- **Product Listings**: Attractive grid and list views for product display.
+- **Cart Management**: Simple and intuitive cart functionality.
+- **Light/Dark Mode**: Toggle between light and dark themes.
+- **Authentication with Saved Credentials**: Secure user login with saved session data.
+- **Cart and Favorite Management**: Add products to your cart or favorite list for a personalized experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+Showcase your app with screenshots here:
+
+- **Home Screen**
+  ![gambar_nice](mocups.jpg)
+
+
+
